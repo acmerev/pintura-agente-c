@@ -322,4 +322,5 @@ Las fichas solo se re-ingieren cuando cambie `ficha_tecnica.pdf`.
 
 ## Licencia / uso
 
-Proyecto interno de demostración para el agente comercial-técnico de Pintumex. Los PDFs y precios son propiedad de quien los suministre; no se incluyen secretos en el repositorio (usa `.env` local).
+Proyecto interno de demostración para el agente comercial-técnico de Pintumex como tema en el reto de alura para el cuerso de Tech AI Builder
+de oracle one next generation.  Los PDFs y precios son propiedad de quien los suministre; no se incluyen secretos en el repositorio (usa `.env` local).
