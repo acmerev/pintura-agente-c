@@ -324,6 +324,7 @@ Las fichas solo se re-ingieren cuando cambie `ficha_tecnica.pdf`.
 
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/55e26198-a14b-4130-8e5a-5e90b78bca4b" />
 
+<img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/899fb46b-2fc6-4013-b375-0970ed23145e" />
 
 <img width="1358" height="768" alt="image" src="https://github.com/user-attachments/assets/2c8e7331-6b1d-4edb-94c0-6071772461f3" />
 
