@@ -5,6 +5,10 @@ Arranque (desde la raíz del proyecto):
     streamlit run ui/app.py
 """
 
+__import__('pysqlite3')  """  Corrige el problema con sql3 en Oracle Linux """
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 from __future__ import annotations
 
 import sys
