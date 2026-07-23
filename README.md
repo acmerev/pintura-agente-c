@@ -1,4 +1,4 @@
-# Pintumex — Agente de Pintura (RAG + LangGraph)
+# Pintumex — Agente de Pintura (RAG + LangGraph) "Alura Proyecto OCI"
 
 Asistente comercial-técnico para **Pintumex**. Consulta listas de precios y fichas técnicas en PDF, responde en lenguaje natural y calcula cuánta pintura se necesita (m² × rendimiento × manos).
 
@@ -318,10 +318,13 @@ Las fichas solo se re-ingieren cuando cambie `ficha_tecnica.pdf`.
 | `No module named 'src'` | Ejecuta desde la raíz del proyecto |
 | Precios raros o cruzados | El PDF tabular a veces sale desordenado; valida contra la lista impresa |
 
-<img width="1358" height="768" alt="image" src="https://github.com/user-attachments/assets/2c8e7331-6b1d-4edb-94c0-6071772461f3" />
-
-
 ---
+
+## Screenshot app alura-proyecto en oracle OCI
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/55e26198-a14b-4130-8e5a-5e90b78bca4b" />
+
+<img width="1358" height="768" alt="image" src="https://github.com/user-attachments/assets/2c8e7331-6b1d-4edb-94c0-6071772461f3" />
 
 ## Licencia / uso
 
