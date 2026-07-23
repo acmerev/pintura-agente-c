@@ -324,7 +324,15 @@ Las fichas solo se re-ingieren cuando cambie `ficha_tecnica.pdf`.
 
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/55e26198-a14b-4130-8e5a-5e90b78bca4b" />
 
+
 <img width="1358" height="768" alt="image" src="https://github.com/user-attachments/assets/2c8e7331-6b1d-4edb-94c0-6071772461f3" />
+
+<img width="1355" height="723" alt="image" src="https://github.com/user-attachments/assets/aed5384c-f34e-4112-adb1-e0ded77729a9" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bf80f0b1-ac07-499a-b696-970790c2042f" />
+
+
+---
 
 ## Licencia / uso
 
