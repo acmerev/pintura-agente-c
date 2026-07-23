@@ -322,6 +322,8 @@ Las fichas solo se re-ingieren cuando cambie `ficha_tecnica.pdf`.
 
 ## Screenshot app alura-proyecto en oracle OCI
 
+# Temporalmente en http://139.177.97.203:8501/ 
+
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/55e26198-a14b-4130-8e5a-5e90b78bca4b" />
 
 <img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/899fb46b-2fc6-4013-b375-0970ed23145e" />
