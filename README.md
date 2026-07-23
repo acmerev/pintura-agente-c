@@ -318,6 +318,9 @@ Las fichas solo se re-ingieren cuando cambie `ficha_tecnica.pdf`.
 | `No module named 'src'` | Ejecuta desde la raíz del proyecto |
 | Precios raros o cruzados | El PDF tabular a veces sale desordenado; valida contra la lista impresa |
 
+<img width="1358" height="768" alt="image" src="https://github.com/user-attachments/assets/2c8e7331-6b1d-4edb-94c0-6071772461f3" />
+
+
 ---
 
 ## Licencia / uso
